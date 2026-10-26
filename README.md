@@ -1,4 +1,6 @@
 # FinWise AI — Personal Finance Advisor
+Live Demo : https://drive.google.com/file/d/1pV5dpo5pqLBOpqV4gL01Lh6_YqFlS4Yz/view?usp=sharing
+Documentation Link : https://1drv.ms/w/c/76047e3b9b3f4013/IQDkMkq6fRuhQ7vzDnd3dQNsAbhUrTg6gxAhboMnUWK3PY4?e=rVZR3e
 
 FinWise AI is a personal finance assistant. Someone shares their income, monthly
 expenses, and a savings goal, and gets back a personalized budget breakdown,
